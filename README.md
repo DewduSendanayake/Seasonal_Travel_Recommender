@@ -1,7 +1,5 @@
 # Seasonal Travel Recommender
 
-Developer README — accurate snapshot of the codebase and how to run and interact with it.
-
 This project is a multi-agent travel planning assistant focused on Sri Lanka. It uses a FastAPI backend to orchestrate several agents (orchestrator, location, activity, packing, summary) and a React/Vite frontend.
 
 ## Repo layout (important files)
