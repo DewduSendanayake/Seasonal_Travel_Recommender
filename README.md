@@ -128,11 +128,6 @@ Notes:
 - 422 on `/api/conversations/append`: Ensure your payload matches the expected nested `message` shape. The client context's `appendChatMessage` helper constructs the correct payload.
 - If the workflow fails to initialize, check the startup logs. Missing env vars (OpenAI key, Mongo URI) are common.
 
-## Next improvements (ideas)
-- Add SSE or WebSocket streaming for per-node progress updates to the frontend.
-- Add unit tests for `summary_agent` to validate packing/activity formatting.
-- Provide a sample dataset for local development (small FAISS/Chroma) and deterministic mocks for the LLM calls.
-
 
 ## License
 MIT
