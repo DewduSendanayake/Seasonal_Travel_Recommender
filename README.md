@@ -312,7 +312,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 - 🐛 **Issues**: [GitHub Issues](https://github.com/DewduSendanayake/Seasonal_Travel_Recommender/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/DewduSendanayake/Seasonal_Travel_Recommender/discussions)
-- 👤 **Author**: [DewduSendanayake](https://github.com/DewduSendanayake)
+- 👥 **Authors**: [DewduSendanayake](https://github.com/DewduSendanayake), [dulhara79](https://github.com/dulhara79), [UVINDUSEN](https://github.com/UVINDUSEN), [SENUVI20](https://github.com/SENUVI20)
 
 ---
 
