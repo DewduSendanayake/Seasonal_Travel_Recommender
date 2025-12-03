@@ -15,14 +15,14 @@ The **Seasonal Travel Recommender** is a sophisticated AI-powered travel assista
 
 ### 🎯 Key Highlights
 
-- 🤖 **9 Specialized AI Agents** working in perfect orchestration
-- 🌦️ **Weather-Aware Recommendations** based on Sri Lanka's monsoon seasons
-- 💬 **Interactive Chat Interface** for natural conversation planning
-- 📍 **Location Intelligence** with vector-based knowledge stores
-- 🎒 **Smart Packing Lists** tailored to your destination and season
-- 📅 **Day-by-Day Activity Planning** customized to your preferences
-- 🔄 **Resumable Planning Sessions** with conversation history
-- 🔐 **Secure Authentication** with JWT tokens
+- **9 Specialized AI Agents** working in perfect orchestration
+- **Weather-Aware Recommendations** based on Sri Lanka's monsoon seasons
+- **Interactive Chat Interface** for natural conversation planning
+- **Location Intelligence** with vector-based knowledge stores
+- **Smart Packing Lists** tailored to your destination and season
+- **Day-by-Day Activity Planning** customized to your preferences
+- **Resumable Planning Sessions** with conversation history
+- **Secure Authentication** with JWT tokens
 
 ---
 
@@ -30,7 +30,7 @@ The **Seasonal Travel Recommender** is a sophisticated AI-powered travel assista
 
 The system uses a **LangGraph-based state machine** with multiple specialized agents:
 
-### 🤖 Intelligent Agent Network
+### Intelligent Agent Network
 
 | Agent | Role | Function |
 |-------|------|----------|
