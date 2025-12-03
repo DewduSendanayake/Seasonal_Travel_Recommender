@@ -1,4 +1,4 @@
-# 🌴 Seasonal Travel Recommender for Sri Lanka
+# 🌴 Seasonal Travel Recommender for Sri Lanka 🌴 
 
 > An intelligent multi-agent travel planning assistant powered by LangGraph that helps you discover the best of Sri Lanka based on weather, seasons, and your personal preferences.
 
